@@ -5,4 +5,5 @@ USE `UniversityDB`;
 
 
 
-SELECT DATABASE();
+SELECT DATABASE(); -- This will show the currently selected database.
+
