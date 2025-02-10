@@ -5,5 +5,4 @@ USE `UniversityDB`;
 
 
 
-
 SELECT DATABASE();
