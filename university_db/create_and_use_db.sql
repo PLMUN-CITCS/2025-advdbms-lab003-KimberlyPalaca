@@ -1,7 +1,9 @@
-CREATE DATABASE IF NOT EXISTS UniversityDB;
+
+CREATE DATABASE `UniversityDB`; 
+
+USE `UniversityDB`; 
 
 
-USE UniversityDB;
 
-SELECT DATABASE(); 
 
+SELECT DATABASE();
