@@ -1,7 +1,6 @@
+CREATE DATABASE IF NOT EXISTS UniversityDB;
 
-CREATE DATABASE UniversityDB;
+USE UniversityDB;
 
-\c UniversityDB;
+SELECT DATABASE();
 
-
-SELECT current_database();
